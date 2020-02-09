@@ -15,3 +15,4 @@ Bestias is a match-2 card game where the player must find both copies of each ca
 
 # Install Instructions
 To play the game, install the "SGX_2019_FinalBuild" folder and run the executable within.
+The game was built for Windows.
